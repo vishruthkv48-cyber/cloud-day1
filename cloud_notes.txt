@@ -1,0 +1,7 @@
+Cloud Basics:
+
+EC2 = Virtual server in cloud
+S3 = Storage in cloud
+IAM = Access control system
+
+Cloud means using computers over internet
